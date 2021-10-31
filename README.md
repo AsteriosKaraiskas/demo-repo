@@ -1,3 +1,3 @@
 # Demo
 
-This is how GitHub repository works
+This is how GitHub repository works!
